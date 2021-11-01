@@ -1,6 +1,15 @@
-title: Profile Name
+title: <p align="center"> Digvijay Ekambaram </p>
 logo: /assets/img/mylogo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/digvijay-e">GitHub</a>
+  
+  <br>   
+  Having 4+ years of experience in web development using CMS and currently deep diving into Machine Learning and Artificial Intelligence.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
